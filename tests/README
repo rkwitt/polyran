@@ -1,0 +1,5 @@
+To fit a polynomial to the test data run 
+
+fit x.bin y.bin
+
+
